@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 - Marketing Channel Comparison: Analyze revenue, sales, and average order value (AOV) performance across different marketing channels and purchase platforms.
 - Regional Comparison: Compare sales metrics across various regions and countries.
 
-An interactive Power BI dashboard can be downloaded here.
+An interactive Power BI dashboard can be downloaded [here](https://github.com/ntma23/gamezone_revenue/blob/main/game%20zone.pbix).
 
 ## Data Structure
 
@@ -20,7 +20,7 @@ Game Zone’s database structure, as seen below, consists of 2 tables: orders an
 ![order_id (1)](https://github.com/user-attachments/assets/bf640081-170b-45b3-b541-c0368d3d044a)
 
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The Issue log Excel file can be found here.
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The Issue log Excel file can be found [here](https://github.com/ntma23/gamezone_revenue/blob/main/Game%20Zone_Issue%20Log.xlsx).
 
 ## Executive Summary
 
@@ -28,7 +28,7 @@ After an initial growth surge in early 2020, Game Zone experienced a steep decli
 
 The following sections will identify factors contributing to this trend and opportunities for improvement.
 
-Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be accessed here.
+Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be accessed [here](https://github.com/ntma23/gamezone_revenue/blob/main/game%20zone.pbix).
 ![image](https://github.com/user-attachments/assets/b1259fcb-1d93-4c40-ba17-1149622d5fff)
 
 ## Insight Deep Dives
@@ -70,13 +70,11 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 - With a combined market share exceeding 80% and impressive growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the primary drivers of revenue. Therefore, we should reallocate the marketing budget from underperforming products like Razer Headset to focus on these three key products to enhance revenue.
 - JBL Headset was one of the top popular products with high volume in sales but low in value. We can offer it in a combo with key revenue driver products to increase the amount spent per transaction.
 - The direct sales channel is the main source of revenue, contributing over 80%. Thus, we should invest more in marketing campaigns for this channel while adjusting the budget for less effective channels, i.e., social media.
-- Although the affiliate channel has low sales volume (less than 5%), it has a high average order value of $311.11, indicating potential. We should consider implementing promotions and enhancing marketing campaigns in this channel to increase the number of orders and, consequently, revenue.
+- Although the affiliate channel has low sales volume (less than 5%), it has a high average order value of $322.48, indicating potential. We should consider implementing promotions and enhancing marketing campaigns in this channel to increase the sales volume and, consequently, overall revenue.
 - The North America (NA) and Europe, Middle East, and Africa (EMEA) regions together account for over 80% of revenue. Therefore, we should focus our marketing efforts and advertisements on these regions, particularly for higher-value products such as the Sony PlayStation, to promote an increase in average order value.
 
 ## Caveats and Appendix
 
-- In the analysis, it was noted that there were some missing values and duplicate observations in the order data that required verification with stakeholders. However, given the project's scope and the insignificant magnitude of these issues, less than 1%, the decision was made to remove them to prevent potential errors in metric calculations.
-- Observations with shipping dates earlier than the purchase date were left as they are because there was no way to interpret them, and the shipping date wasn't utilized in this analysis.
-*Information about missing values in the Issue log can be found here.*
+- In the analysis, it was noted that there were some missing values and duplicate observations in the order data that required verification with stakeholders. However, given the project's scope and the insignificant magnitude of these issues, less than 1%, the decision was made to remove them to prevent potential errors in metric calculations. Observations with shipping dates earlier than the purchase date were left as they are because there was no way to interpret them, and the shipping date wasn't utilized in this analysis. More information about missing values in the Issue log can be found [here](https://github.com/ntma23/gamezone_revenue/blob/main/Game%20Zone_Issue%20Log.xlsx).
 
 - Furthermore, the analysis could be enhanced by incorporating data from the marketing team regarding campaigns. There is also an opportunity to further investigate customer profiles by utilizing demographic information.
