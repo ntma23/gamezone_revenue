@@ -16,7 +16,7 @@ An interactive Power BI dashboard can be downloaded [here](https://github.com/nt
 
 ## Data Structure
 
-Game Zone’s database structure, as seen below, consists of 2 tables: orders and regions, with a total row count of 21,719 records.
+Game Zone’s database structure, as seen below, consists of 2 tables: orders and regions, with a total row count of 21,685 records.
 ![order_id (1)](https://github.com/user-attachments/assets/bf640081-170b-45b3-b541-c0368d3d044a)
 
 
@@ -75,6 +75,6 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 
 ## Caveats and Appendix
 
-- In the analysis, it was noted that there were some missing values and duplicate observations in the order data that required verification with stakeholders. However, given the project's scope and the insignificant magnitude of these issues, less than 1%, the decision was made to remove them to prevent potential errors in metric calculations. Observations with shipping dates earlier than the purchase date were left as they are because there was no way to interpret them, and the shipping date wasn't utilized in this analysis. More information about missing values in the Issue log can be found [here](https://github.com/ntma23/gamezone_revenue/blob/main/Game%20Zone_Issue%20Log.xlsx).
+- In the analysis, it was noted that Marketing Channel categorized as "unknown" and missing Region observations were hidden from the visualizations to avoid skewness and see the overall trends clearly. There were some missing transactions and duplicate observations in the order data that required verification with stakeholders. However, given the project's scope and the insignificant magnitude of these issues, less than 1%, the decision was made to remove them to prevent potential errors in metric calculations. More information about missing values in the Issue log can be found [here](https://github.com/ntma23/gamezone_revenue/blob/main/Game%20Zone_Issue%20Log.xlsx).
 
 - Furthermore, the analysis could be enhanced by incorporating data from the marketing team regarding campaigns. There is also an opportunity to further investigate customer profiles by utilizing demographic information.
