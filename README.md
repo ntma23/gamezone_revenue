@@ -29,7 +29,8 @@ After an initial growth surge in early 2020, Game Zone experienced a steep decli
 The following sections will identify factors contributing to this trend and opportunities for improvement.
 
 Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be accessed [here](https://github.com/ntma23/gamezone_revenue/blob/main/game%20zone.pbix).
-![image](https://github.com/user-attachments/assets/b1259fcb-1d93-4c40-ba17-1149622d5fff)
+![image](https://github.com/user-attachments/assets/57ab1c29-f5e9-44cb-b4a4-fe55d7cc9376)
+
 
 ## Insight Deep Dives
 
@@ -39,7 +40,8 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 - However, this surge in expenditure is often followed by a notable **reduction in January**, as individuals seek to adjust for their overspending during the holidays.
 - This seasonal trend is true across products, marketing channels, and regions. It can also explain the significant drop at the beginning of 2021.
 - Total revenue reached $4.06 million in 2020, representing an exceptional growth of 163.26% along with a 102.30% rise in sales volume, along with a 30.13% increase in AOV.
-![image](https://github.com/user-attachments/assets/ab0e1682-7bb4-423d-be73-fe8b6f32fabf)
+![image](https://github.com/user-attachments/assets/9ccea85f-488c-4bf7-814f-e8213529c324)
+
 
 ### Product Level Performance
 
@@ -47,28 +49,31 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 - In 2019, the 27K gaming monitor led the market, accounting for an average of 40% of revenue, followed closely by the Nintendo Switch at around 33%. Since 2020, both the Sony PlayStation and the 27K gaming monitor have alternated in capturing the largest market share, each hovering around 30%.
 - With a combined market share exceeding 80% and remarkable growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the **primary drivers** of the revenue surge in the 2020s.
 - **Some products performed poorly**, including the Razer Gaming Headset, Dell Gaming Mouse, Acer Laptop, and JBL Headset. Together, they brought in less than 5% of the total revenue during all periods. The Razer Headset sold the worst, with only 6 units sold for a total of $764. The JBL Headset was one of the top 3 selling products, but because its average price was the lowest at $22.49, it only brought in a maximum of 2.86% of total revenue.
-![image](https://github.com/user-attachments/assets/76e8be98-a105-45db-8b9e-fc82b3a587ad)
+![image](https://github.com/user-attachments/assets/b6b65718-d7f9-49a1-b4e6-075fafa3237e)
+
 
 
 ### Marketing Channel Comparisons
 
 - The **direct channel**, which is the **main revenue source**, experienced a growth rate of 160.64%, generating $3.44 million, while other channels remained low, notably social media, accounting for less than 1% on average of revenue.
 - The **affiliate channel** consistently maintained **the highest AOV** of $322.48 on average and had significant growth at the beginning of 2020 with a peak of $519.73. However, less than 5% of orders came from affiliates, whereas approximately 80% of orders were through the direct channel. Thus, lower contribution to the overall revenue than the direct channel.
-![image](https://github.com/user-attachments/assets/f1845e32-c296-44a2-9100-895a34f277f6)
+![image](https://github.com/user-attachments/assets/b6583135-4248-488a-96b7-ae8d48865ab3)
+
 
 
 ### Region Market Shares
 
 - Revenue spikes were observed across all four regions, with the most significant increases in **North America (NA)** and **Europe, the Middle East, and Africa (EMEA)**. North America held more than half of the market share, while EMEA accounted for over 30%.
 - All four regions experienced a general upward trend, converging toward higher AOVs by the end of the period. LATAM exhibited the most volatility with sharp spikes at the end of 2019, while EMEA showed a steady rise. At the beginning of 2020, all regions experienced a spike, except for LATAM, which saw a sharp drop.
-![image](https://github.com/user-attachments/assets/31a4bd96-b461-4aa6-9ff1-27fd65c5fdeb)
+![image](https://github.com/user-attachments/assets/2efa63e8-8534-4b82-ae15-843b16ced735)
+
 
 
 ## Recommendations
 
 - Although the sharp decline in sales in early 2021 is attributed to seasonal patterns, it is possible to implement promotions or loyalty programs to retain customers or boost sales during slower seasons.
 - With a combined market share exceeding 80% and impressive growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the primary drivers of revenue. Therefore, we should reallocate the marketing budget from underperforming products like Razer Headset to focus on these three key products to enhance revenue.
-- JBL Headset was one of the top popular products with high volume in sales but low in value. We can offer it in a combo with key revenue driver products to increase the amount spent per transaction.
+- JBL Headset was one of the most popular products with high volume in sales but low in value. We can offer it in a combo with key revenue driver products to increase the amount spent per transaction.
 - The direct sales channel is the main source of revenue, contributing over 80%. Thus, we should invest more in marketing campaigns for this channel while adjusting the budget for less effective channels, i.e., social media.
 - Although the affiliate channel has low sales volume (less than 5%), it has a high average order value of $322.48, indicating potential. We should consider implementing promotions and enhancing marketing campaigns in this channel to increase the sales volume and, consequently, overall revenue.
 - The North America (NA) and Europe, Middle East, and Africa (EMEA) regions together account for over 80% of revenue. Therefore, we should focus our marketing efforts and advertisements on these regions, particularly for higher-value products such as the Sony PlayStation, to promote an increase in average order value.
