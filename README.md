@@ -71,8 +71,8 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 
 ## Recommendations
 
-- Although the sharp decline in sales in early 2021 is attributed to seasonal patterns, it is possible to implement promotions or loyalty programs to retain customers or boost sales during slower seasons.
-- With a combined market share exceeding 80% and impressive growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the primary drivers of revenue. Therefore, we should reallocate the marketing budget from underperforming products like Razer Headset to focus on these three key products to enhance revenue.
+- Although the sharp decline in sales in early 2021 is attributed to seasonal patterns, it is possible to implement promotions or loyalty programs to retain customers or boost sales during slower seasons to alleviate seasonal variances.
+- With a combined market share exceeding 80% and impressive growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the primary drivers of revenue. Therefore, we should reallocate the marketing budget from underperforming products like Razer Headset to focus on these three key products to maintain and bolster the revenue growth rate.
 - JBL Headset was one of the most popular products with high volume in sales but low in value. We can offer it in a combo with key revenue driver products to increase the amount spent per transaction.
 - The direct sales channel is the main source of revenue, contributing over 80%. Thus, we should invest more in marketing campaigns for this channel while adjusting the budget for less effective channels, i.e., social media.
 - Although the affiliate channel has low sales volume (less than 5%), it has a high average order value of $322.48, indicating potential. We should consider implementing promotions and enhancing marketing campaigns in this channel to increase the sales volume and, consequently, overall revenue.
