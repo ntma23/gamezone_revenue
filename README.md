@@ -3,9 +3,9 @@
 
 Game Zone, established in 2019, is a US company selling technology products worldwide.
 
-The company has rich sales data that has not been fully utilized. This project aims to analyze the data to uncover insights about sales trends and provide recommendations for improving revenue through better marketing efforts.
+The company has rich sales data that has not been fully utilized. This project aims to analyze the data to uncover insights about sales trends and provide recommendations for improving revenue through better marketing efforts. 
 
-Insights and recommendations are provided on the following key areas:
+Total Revenue is the primary indicator of Game Zone’s business growth, influenced by product mix, channel strategy, and regional performance. Therefore, insights and recommendations are provided on the following key areas:
 
 - Sales Trend Analysis: Examine historical sales patterns, focusing on total revenue.
 - Product Performance: Assess the impact of key products on overall revenue and investigate potential products.
@@ -16,7 +16,7 @@ An interactive Power BI dashboard can be downloaded [here](https://github.com/nt
 
 ## Data Structure
 
-Game Zone’s database structure, as seen below, consists of 2 tables: orders and regions, with a total row count of 21,685 records.
+Game Zone’s database structure, as seen below, consists of 2 tables: orders and regions, with a total row count of 21,685 records. Each observation in "orders" represents one product ordered in a quantity of one. 
 ![order_id (1)](https://github.com/user-attachments/assets/bf640081-170b-45b3-b541-c0368d3d044a)
 
 
@@ -48,7 +48,7 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 - A similar spike was observed across all products. However, the **top three key items** displayed the most significant growth in 2020: the Sony PlayStation (+360.38%), the 27K gaming monitor (+119.22%), and the Nintendo Switch (+98.43%), while others maintained stability.
 - In 2019, the 27K gaming monitor led the market, accounting for an average of 40% of revenue, followed closely by the Nintendo Switch at around 33%. Since 2020, both the Sony PlayStation and the 27K gaming monitor have alternated in capturing the largest market share, each hovering around 30%.
 - With a combined market share exceeding 80% and remarkable growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the **primary drivers** of the revenue surge in the 2020s.
-- **Some products performed poorly**, including the Razer Gaming Headset, Dell Gaming Mouse, Acer Laptop, and JBL Headset. Together, they brought in less than 5% of the total revenue during all periods. The Razer Headset sold the worst, with only 6 units sold for a total of $764. The JBL Headset was one of the top 3 selling products, but because its average price was the lowest at $22.49, it only brought in a maximum of 2.86% of total revenue.
+- **Some products performed poorly**, including the Razer Gaming Headset, Dell Gaming Mouse, Acer Laptop, and JBL Headset. Together, they brought in less than 5% of the total revenue during all periods. The Razer Headset sold the worst, with only 6 units sold for a total of $764. The JBL Headset had high sales volume but low revenue impact due to its $22.49 price, which can be a good candidate for bundling strategies.
 ![image](https://github.com/user-attachments/assets/b6b65718-d7f9-49a1-b4e6-075fafa3237e)
 
 
@@ -75,7 +75,7 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 - With a combined market share exceeding 80% and impressive growth rates, the Sony PlayStation, the 27K gaming monitor, and the Nintendo Switch are likely the primary drivers of revenue. Therefore, we should reallocate the marketing budget from underperforming products like Razer Headset to focus on these three key products to maintain and bolster the revenue growth rate.
 - JBL Headset was one of the most popular products with high volume in sales but low in value. We can offer it in a combo with key revenue driver products to increase the amount spent per transaction.
 - The direct sales channel is the main source of revenue, contributing over 80%. Thus, we should invest more in marketing campaigns for this channel while adjusting the budget for less effective channels, i.e., social media.
-- Although the affiliate channel has low sales volume (less than 5%), it has a high average order value of $322.48, indicating potential. We should consider implementing promotions and enhancing marketing campaigns in this channel to increase the sales volume and, consequently, overall revenue.
+- Although the affiliate channel contributed less than 5% of orders, its significantly higher AOV ($322.48) presents a strategic opportunity to boost revenue if sales volume can be increased. Therefore, implementing promotions and enhancing marketing campaigns in this channel can increase the sales volume and, consequently, overall revenue.
 - The North America (NA) and Europe, Middle East, and Africa (EMEA) regions together account for over 80% of revenue. Therefore, we should focus our marketing efforts and advertisements on these regions, particularly for higher-value products such as the Sony PlayStation, to promote an increase in average order value.
 
 ## Caveats and Appendix
