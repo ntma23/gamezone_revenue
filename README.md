@@ -40,7 +40,8 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 - However, this surge in expenditure is often followed by a notable **reduction in January**, as individuals seek to adjust for their overspending during the holidays.
 - This seasonal trend is true across products, marketing channels, and regions. It can also explain the significant drop at the beginning of 2021.
 - Total revenue reached $4.06 million in 2020, representing an exceptional growth of 163.26% along with a 102.30% rise in sales volume, along with a 30.13% increase in AOV.
-![image](https://github.com/user-attachments/assets/9ccea85f-488c-4bf7-814f-e8213529c324)
+![image](https://github.com/user-attachments/assets/42fe7959-469c-482c-a2f9-656f5a320d99)
+
 
 
 ### Product Level Performance
