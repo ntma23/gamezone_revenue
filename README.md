@@ -17,7 +17,8 @@ An interactive Power BI dashboard can be downloaded [here](https://github.com/nt
 ## Data Structure
 
 Game Zone’s database structure, as seen below, consists of 2 tables: orders and regions, with a total row count of 21,685 records. Each observation in "orders" represents one product ordered in a quantity of one. 
-![order_id (1)](https://github.com/user-attachments/assets/bf640081-170b-45b3-b541-c0368d3d044a)
+![image](https://github.com/user-attachments/assets/92a35e0b-9170-4831-923d-608a4a7b2c69)
+
 
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The Issue log Excel file can be found [here](https://github.com/ntma23/gamezone_revenue/blob/main/Game%20Zone_Issue%20Log.xlsx).
